@@ -58,5 +58,5 @@ This project is a collaborative effort involving:
 * **Pontificia Universidad Católica de Chile (UC):** Research originating from the **Instituto de Ingeniería Biológica y Médica (IIBM)**, associated with the supporting **FONDECYT** project.
 
 ---
-**Author:** [Your Name]
+**Author:** Manuel Albendin Moreno - Nicolás Alejandro Díaz Valenzuela - Claudio Córdova Lepe - Sebastián San Martin - Rolando Rebolledo. 
 **Institutions:** Universidad de Valparaíso & Pontificia Universidad Católica de Chile
